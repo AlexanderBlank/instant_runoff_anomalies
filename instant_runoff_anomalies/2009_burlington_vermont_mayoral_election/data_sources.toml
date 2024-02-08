@@ -1,0 +1,9 @@
+[raw_ballots]
+# Archive of ballot data; found from https://en.wikipedia.org/wiki/2009_Burlington_mayoral_election#External_links
+local_path = "2009 Mayor Reports.zip"
+web_url = "https://web.archive.org/web/20110725111632/http://www.burlingtonvotes.org/20090303/2009%20Mayor%20Reports.zip"
+
+[electowiki]
+# Ballot counts on electowiki.org
+local_path = "2009_Burlington,_Vermont_Mayoral_Election_data"
+web_url = "https://electowiki.org/wiki/2009_Burlington,_Vermont_Mayoral_Election_data"
